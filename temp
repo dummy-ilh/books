@@ -1,0 +1,37 @@
+Here are the updated sections. Sections 4, 6 and 7 are unchanged.
+
+**1. Current role (12 lines)**
+Shree leads AI/ML for EComm, owning production delivery of 10+ models and tools across violation detection and search, including two LLMs (complaints and misleading information). He has built the models and the governance pipelines around them. He helped the team get the first LLM model approved by MRGR, the first approval for a bounded use case across the LOB. He is the sole owner of MRGR governance for this scope: he validated the PIA model, has two more in process, and secured waivers to bring LLM-based models into production. He built multiple pipelines that streamline third-party model review, audit, and monitoring, and he is the primary point of contact for audits. He has liaised with tenants across CCOR and Legal, and is now onboarding CCB to expand the portfolio. His work has delivered $[___] in value as of [date saved: ___]. He holds 5 patent applications and 3 white papers in cutting-edge AI/ML. Rated Strong (S) on business outcomes, stakeholder engagement, and teamwork and leadership.
+
+**2. Advanced technical knowledge (12 lines)**
+Shree pairs a Master's specialization in AI/ML with an uncommon approach: he runs ML design reviews that treat governance as a design input, not a late-stage gate. Before build, he pressure-tests each solution on data, validation, failure modes, controls, and approval readiness [add one concrete example: model, what the review caught, outcome]. That approach helped the team get the first LLM model approved by MRGR, the first bounded-use-case approval across the LOB. He then turned it into reusable infrastructure: pipelines for third-party model review, audit, and monitoring that tenants can onboard onto without one-off builds. His depth also shows in graph infrastructure (event bridge), Agentic review POCs, and an analysis of 3 million emails that opened new operations use cases. His patents and papers sit in cutting-edge AI/ML.
+
+**3. Strategy alignment and proactivity (11 lines)**
+1. Ties every model to EComm outcomes in production, not experiments.
+2. Runs ML design reviews that bring risk, governance, and data owners in early, cutting late-stage friction.
+3. Builds governance and monitoring pipelines so review and audit are repeatable, not manual.
+4. Opened the path for LLMs at the firm: first MRGR-approved LLM model and first bounded use case across the LOB.
+5. Builds reusable onboarding patterns, expanding from CCOR and Legal to CCB.
+6. Invests in platform health through upgrades and modernization.
+7. Anticipates scrutiny as the standing audit and review contact.
+8. Manages execution across the USA, Singapore, India, and the Philippines.
+
+**5. Continuous learning (11 lines)**
+1. Brings new AI/ML methods (LLMs, agentic patterns) into production, as the first MRGR-approved LLM shows.
+2. Builds the controls and pipelines that let new methods pass review.
+3. Uses releases, upgrades, and incidents as feedback loops.
+4. Tracks evolving MRGR expectations and updates how models are documented, validated, and monitored.
+5. Uses POCs and new-tenant onboarding to test assumptions and standardize what works.
+6. Maintains a research track in cutting-edge AI/ML: 5 patent applications, 3 white papers.
+7. Teaches what he learns through the AI/ML cohort and mentoring.
+
+**8. Impact after the program**
+Shree will turn exposure to strong peers into a firm-level operating model. His ML design review process and review/audit/monitoring pipelines become shared standards, so new tenants onboard faster and approvals move earlier. He will multiply this by coaching others and growing the India ML team. The cross-IP network will cut cycle time, and the Quest will let him apply it beyond his own LOB.
+
+**9. Anything else**
+Shree has built the models, the governance pipelines, and the approval path for LLMs at the LOB. He routinely coordinates across four regions and holds Strong (S) ratings in business outcomes, stakeholder engagement, and teamwork and leadership. He would be a strong contributor to E2 cohort discussions, Quests, and the alumni network.
+
+**Confirm before submitting**
+- **"First" claim:** I read it as the first MRGR-approved LLM model and the first bounded-use-case approval across the LOB. If it means something different, tell me and I'll fix the wording.
+- **Patents:** you have 5 applications, but the form said 3 approved. Make the wording consistent.
+- **Design review example, dollar value, date:** still blank for you to fill in.
